@@ -1,2 +1,2 @@
-hello, Git
-Learning git is fun!
+First version
+New Feature Added!
